@@ -1,0 +1,3 @@
+xiaoming  15  170
+xianggang  14  168
+xianghong  15  165

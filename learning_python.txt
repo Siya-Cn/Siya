@@ -1,0 +1,5 @@
+In python you can learn the string.
+In python you can learn the if grammer.
+In python you can learn the list.
+In python you can learn the circle.
+In python you can learn the whlie.
